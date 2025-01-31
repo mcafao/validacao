@@ -32,7 +32,6 @@ urucuritiba-am;1304401;21/01/2025
 jau-sp;3525300;21/01/2025
 Juscelino-ma;2109205;21/01/2025
 Joanesia-mg;3136108;21/01/2025
-junqueiro-al;2704005;01/01/2099
 tres_lagoas-ms;5008305;21/01/2025
 itaitinga-ce;2306256;21/01/2025
 tomazina-pr;4127809;21/01/2025
@@ -126,17 +125,18 @@ buritirana-ma;2102358;04/02/2025
 jequitiba-mg;3135704;04/02/2025
 cordisburgo-mg;3118908;04/02/2025
 ilha_comprida-sp;3520426;04/02/2025
-caroebe-rr;1400233;01/01/2099
-Ribeirao Branco - SP;3543006;01/01/2099
-Jacobina - BA;2917508;01/01/2099
-Francinopolis - PI;2204006;01/01/2099
-Boa Nova - BA;2903706;01/01/2099
-Brejo do Cruz - PB;2502805;01/01/2099
-Palmares - PE;2610004;01/01/2099
-Agua Preta - PE;2600401;01/01/2099
-Amajari - RR;1400027;01/01/2099
-Mucajai - RR;1400308;01/01/2099
-Sao Joao da Baliza - RR;1400506;01/01/2099
+jos_caroebe-rr;1400233;01/01/2099
+jos_junqueiro-al;2704005;01/01/2099
+jos_Ribeirao Branco - SP;3543006;01/01/2099
+jos_Jacobina - BA;2917508;01/01/2099
+jos_Francinopolis - PI;2204006;01/01/2099
+jos_Boa Nova - BA;2903706;01/01/2099
+jos_Brejo do Cruz - PB;2502805;01/01/2099
+jos_Palmares - PE;2610004;01/01/2099
+jos_Agua Preta - PE;2600401;01/01/2099
+jos_Amajari - RR;1400027;01/01/2099
+jos_Mucajai - RR;1400308;01/01/2099
+jos_Sao Joao da Baliza - RR;1400506;01/01/2099
 acarape-ce;2300150;05/02/2025
 varzea_alegre;2314003;05/02/2025
 dr severiano - rn;2403202;01/01/2099
