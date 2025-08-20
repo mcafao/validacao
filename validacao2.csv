@@ -5,11 +5,11 @@ fernando-falcão-ma;2104081;20/08/2025
 formiga-mg;3126109;26/08/2025
 estrela-rs;4307807;20/08/2025
 morrinhos-ce;2308906;20/08/2025
-tobias barreto-se;2807402;05/09/2025
 passo fundo-rs;4314100;21/08/2025
 tat_tiangua-ce;2313401;20/08/2025
 tat_ubajara-ce;2313609;20/08/2025
 tat_Jijoca de Jericoacoara-ce;2307254;20/08/2025
+tobias barreto-se;2807402;05/09/2025
 Inhambupe-ba;2913705;11/08/2025
 cardeal da silva-ba;2907004;01/01/2026
 ipixuna-am;1301803;11/08/2025
@@ -84,7 +84,12 @@ sao raimundo das mangabeiras-ma;2111607;21/01/2025
 marilia-sp;3529005;25/06/2025
 umirim-ce;2313757;20/07/2025
 pedro ii-pi;2207900;26/06/2025
-samuel_bom jesus das selvas-ma;2102036;30/08/2025
+samuel_bom jesus das selvas-ma;2102036;31/12/2025
+samuel_Pindaré-Mirim-MA;2108504;31/12/2025
+samuel_Matoes do Norte - MA;2106631;31/12/2025
+samuel_Capinzal do Norte - MA;2102754;31/12/2025
+samuel_Nova Olinda do Maranhao - MA;2107357;31/12/2025
+samuel_alto alegre-ma;2100436;31/12/2025
 urucurituba-am;1304401;28/07/2026
 jau-sp;3525300;21/01/2025
 presidente Juscelino-ma;2109205;06/11/2025
@@ -191,12 +196,11 @@ caninde_de_sao_francisco-se;2801207;27/06/2025
 patos de minas-mg;3148004;01/02/2026
 gira do ponciano-al;2702900;29/01/2025
 sao sebastiao do rio preto-mg;3164803;30/01/2025
-samuel_alto alegre-ma;2100436;26/08/2025
 santo_antonio_do_jacinto-mg;3160306;21/08/2025
 barcelona-rn;2401503;02/02/2025
 sao_joao_do_soter-ma;2111078;05/02/2025
 dom_inocencio-pi;2203453;15/08/2025
-fartura do piaui-pi;2203750;20/08/2025
+faturado_piaui-pi;2203750;20/08/2025
 sao_jose_da_tapera-al;2708402;23/07/2025
 mesces-mg;3141603;03/02/2025
 presidente_janio_quadros-ba;2925709;03/02/2025
@@ -324,7 +328,6 @@ florania-rn;2403806;10/06/2025
 tenente laurentino cruz-rn;2414159;12/06/2025
 lajes pintadas-rn;2406809;16/06/2025
 uruara-pa;1508159;20/06/2025
-samuel_Nova Olinda do Maranhao - MA;2107357;26/08/2025
 Monte Santo - BA;2921500;14/04/2025
 Vista Serrana - PB;2505501;30/01/2025
 dri_Jaci - SP;3524501;18/09/2025
@@ -346,7 +349,6 @@ Serra Negra do Norte - RN;2413409;25/06/2025
 Quijingue - BA;2925907;14/04/2025
 Passa e Fica - RN;2409100;25/06/2025
 Cocal dos Alves - PI;2202729;25/08/2025
-samuel_Capinzal do Norte - MA;2102754;22/06/2025
 wadison_comercinho-mg;3117009;31/07/2026
 wadison_Sao Goncalo do Rio Preto - MG;3125507;01/01/2026
 wadison_Grao Mogol - MG;3127800;01/01/2026
@@ -355,10 +357,8 @@ wadison_Cristalia - MG;3120300;01/01/2026
 wadison_Ibiai - MG;3129608;01/01/2026
 wadison_santa fe de minas-mg;3157609;25/08/2025
 wadison_verdelandia-mg;3171030;01/01/2026
-Pindaré-Mirim-MA;2108504;25/06/2025
 Regeneração - PI;2208809;28/08/2025
 Oliveira dos Brejinhos - BA;2923209;14/04/2025
-Matoes do Norte - MA;2106631;25/06/2025
 Pedreiras - MA;2108207;30/08/2025
 Sao Jose do Campestre - RN;2412302;15/06/2025
 Sao Francisco do Piaui - PI;2209708;15/09/2025
@@ -381,18 +381,3 @@ nipoa-sp;3532702;30/09/2025
 sao fidelis-rj;3304805;11/07/2025
 sao francisco de itabapoana-rj;3304755;24/10/2025
 goiana-pe;2606200;02/08/2025
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
