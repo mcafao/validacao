@@ -1,7 +1,7 @@
 nome;ibge;data_validade
 livramento;2508505;01/01/2099
-xxx;2209500;02/09/2025
-xxx;1302108;02/09/2025
+Santo Inacio do Piaui-pi;2209500;02/09/2025
+japura-am;1302108;02/09/2025
 araripe-ce;2301307;02/09/2025
 toritama-pe;2615409;01/09/2025
 santa cruz do rio pardo-sp;3546405;01/09/2025
@@ -388,6 +388,7 @@ nipoa-sp;3532702;30/09/2025
 sao fidelis-rj;3304805;11/07/2025
 sao francisco de itabapoana-rj;3304755;24/10/2025
 goiana-pe;2606200;02/08/2025
+
 
 
 
