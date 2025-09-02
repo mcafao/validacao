@@ -1,5 +1,6 @@
 nome;ibge;data_validade
 livramento;2508505;01/01/2099
+medina-mg;3141405;01/01/2099
 Peixoto de Azevedo-mt;5106422;08/09/2025
 uruburetama-ce;2313807;08/09/2025
 montes altos-ma;2107001;06/09/2025
@@ -50,11 +51,10 @@ ipameri-go;5210109;22/01/2026
 ipaussu-sp;3520905;10/07/2025
 tarumirim-mg;3168408;02/07/2025
 alvorada go gurgueia-pi;2200459;02/07/2025
-bom jesus - pb;2502201;01/09/2025
-sao jose de piranhas-pb;2514503;01/09/2025
-carrapateira - pb;2504108;01/09/2025
-cachoeira dos indios - pb;2503308;01/09/2025
-medina-mg;3141405;01/01/2099
+gill_bom jesus - pb;2502201;01/01/2026
+gill_sao jose de piranhas-pb;2514503;01/01/2026
+gill_carrapateira - pb;2504108;01/01/2026
+gill_cachoeira dos indios - pb;2503308;01/01/2026
 rochinha_sao gon amarante;2412005;25/06/2025
 rochinha_capanema;1502202;25/06/2025
 urucara;1304302;07/06/2025
@@ -394,6 +394,7 @@ nipoa-sp;3532702;30/09/2025
 sao fidelis-rj;3304805;11/07/2025
 sao francisco de itabapoana-rj;3304755;24/10/2025
 goiana-pe;2606200;02/08/2025
+
 
 
 
