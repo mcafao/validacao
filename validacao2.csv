@@ -1,6 +1,11 @@
 nome;ibge;data_validade
 livramento;2508505;01/01/2099
 medina-mg;3141405;01/01/2099
+ren_brand_itaquitinga-pe;2607802;05/10/2025
+ren_brand_ferreiros-pe;2605509;05/10/2025
+ren_brand_goiana-pe;2606200;05/10/2025
+ren_brand_condado-pe;2604601;05/10/2025
+ren_brand_itambe-pe;2607653;05/10/2025
 poção das pedras-ma;2108900;10/09/2025
 ocara-ce;2309458;09/09/2025
 Peixoto de Azevedo-mt;5106422;08/09/2025
@@ -52,7 +57,7 @@ igrapiuna-ba;2913457;18/07/2025
 ipameri-go;5210109;22/01/2026
 ipaussu-sp;3520905;10/07/2025
 tarumirim-mg;3168408;02/07/2025
-alvorada go gurgueia-pi;2200459;02/07/2025
+alvorada go gurgueia-pi;2200459;04/10/2025
 gill_bom jesus - pb;2502201;01/01/2026
 gill_sao jose de piranhas-pb;2514503;01/01/2026
 gill_carrapateira - pb;2504108;01/01/2026
@@ -347,9 +352,9 @@ uruara-pa;1508159;20/06/2025
 Monte Santo - BA;2921500;14/04/2025
 Vista Serrana - PB;2505501;30/01/2025
 dri_Jaci - SP;3524501;18/09/2025
-dri_Andradina - SP;3502101;01/09/2025
+dri_Andradina - SP;3502101;04/10/2025
 dri_Marinopolis-SP;3529104;11/08/2025
-dri_Barbosa - SP;3505104;31/08/2025
+dri_Barbosa - SP;3505104;04/10/2025
 dri_indiapora-sp;3520707;19/09/2025
 dri_ouroeste-sp;3534757;26/09/2025
 dri_pontes gestal - sp;3540309;23/08/2025
@@ -396,7 +401,3 @@ carira-se;2801405;10/07/2025
 nipoa-sp;3532702;30/09/2025
 sao fidelis-rj;3304805;11/07/2025
 sao francisco de itabapoana-rj;3304755;24/10/2025
-goiana-pe;2606200;02/08/2025
-
-
-
