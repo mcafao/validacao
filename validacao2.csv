@@ -106,11 +106,12 @@ umirim-ce;2313757;28/02/2026
 pedro ii-pi;2207900;26/06/2025
 samuel_bom jesus das selvas-ma;2102036;31/12/2025
 samuel_timbiras-ma;2112100;31/12/2025
-samuel_Pindaré-Mirim-MA;2108504;31/12/2025
-samuel_Matoes do Norte - MA;2106631;31/12/2025
-samuel_Capinzal do Norte - MA;2102754;31/12/2025
-samuel_Nova Olinda do Maranhao - MA;2107357;31/12/2025
+samuel_Pindaré-Mirim-ma;2108504;31/12/2025
+samuel_Matoes do Norte - ma;2106631;31/12/2025
+samuel_Capinzal do Norte - ma;2102754;31/12/2025
+samuel_nova olinda do maranhao - ma;2107357;31/12/2025
 samuel_alto alegre-ma;2100436;31/12/2025
+samuel_pedreiras-ma;2108207;31/12/2025
 urucurituba-am;1304401;04/09/2025
 jau-sp;3525300;21/01/2025
 presidente Juscelino-ma;2109205;06/11/2025
@@ -381,7 +382,6 @@ wadison_santa fe de minas-mg;3157609;01/01/2026
 wadison_verdelandia-mg;3171030;01/01/2026
 Regeneração - PI;2208809;09/09/2025
 Oliveira dos Brejinhos - BA;2923209;14/04/2025
-Pedreiras - MA;2108207;30/08/2025
 Sao Jose do Campestre - RN;2412302;15/06/2025
 Sao Francisco do Piaui - PI;2209708;29/10/2025
 Belo Monte - AL;2700904;12/01/2026
@@ -402,18 +402,3 @@ carira-se;2801405;10/07/2025
 nipoa-sp;3532702;30/09/2025
 sao fidelis-rj;3304805;11/07/2025
 sao francisco de itabapoana-rj;3304755;24/10/2025
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
