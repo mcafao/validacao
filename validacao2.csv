@@ -1,6 +1,8 @@
 nome;ibge;data_validade
 livramento;2508505;01/01/2099
 medina-mg;3141405;01/01/2099
+capivari-sp;3510401;19/09/2025
+edson_itainopolis-pi;2205003;19/09/2025
 ren_brand_itaquitinga-pe;2607802;05/10/2025
 ren_brand_ferreiros-pe;2605509;05/10/2025
 ren_brand_goiana-pe;2606200;05/10/2025
@@ -402,5 +404,6 @@ carira-se;2801405;10/07/2025
 nipoa-sp;3532702;30/09/2025
 sao fidelis-rj;3304805;11/07/2025
 sao francisco de itabapoana-rj;3304755;24/10/2025
+
 
 
