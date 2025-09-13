@@ -2,7 +2,7 @@ nome;ibge;data_validade
 livramento;2508505;01/01/2099
 medina-mg;3141405;01/01/2099
 capivari-sp;3510401;19/09/2025
-edson_itainopolis-pi;2205003;19/09/2025
+edson_	itainopolis-pi;2205003;21/09/2025
 ren_brand_itaquitinga-pe;2607802;05/10/2025
 ren_brand_ferreiros-pe;2605509;05/10/2025
 ren_brand_goiana-pe;2606200;05/10/2025
@@ -114,7 +114,7 @@ samuel_Capinzal do Norte - MA;2102754;31/12/2025
 samuel_Nova Olinda do Maranhao - MA;2107357;31/12/2025
 samuel_alto alegre-ma;2100436;31/12/2025
 samuel_Pedreiras - MA;2108207;31/12/2025
-urucurituba-am;1304401;12/10/2025
+urucurituba-am;1304401;13/09/2026
 jau-sp;3525300;21/01/2025
 presidente Juscelino-ma;2109205;06/11/2025
 Joanesia-mg;3136108;21/01/2025
@@ -152,7 +152,7 @@ magda-sp;3528304;30/04/2025
 santa terezinha de goias-go;5219704;26/03/2025
 santana do acarau-ce;2312007;07/03/2026
 dois riachos-al;2702504;25/06/2025
-cacimbinhas-al;2701209;11/10/2025
+cacimbinhas-al;2701209;11/09/2025
 minador do negrao-al;2705309;25/06/2025
 dirceu arcoverde-pi;2203354;07/08/2025
 ouro_branco-mg;3145901;25/01/2025
@@ -404,6 +404,3 @@ carira-se;2801405;10/07/2025
 nipoa-sp;3532702;30/09/2025
 sao fidelis-rj;3304805;11/07/2025
 sao francisco de itabapoana-rj;3304755;24/10/2025
-
-
-
