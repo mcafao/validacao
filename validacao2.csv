@@ -1,8 +1,10 @@
 nome;ibge;data_validade
 livramento;2508505;01/01/2099
 medina-mg;3141405;01/01/2099
+tucano-ba;2931905;29/09/2025
+nazare do piaui-pi;2206704;29/09/2025
 olindina-ba;2923100;24/09/2025
-agua boa-mg;310060;23/09/2025
+agua boa-mg;310060;29/09/2025
 joima-mg;3136009;23/09/2025
 capivari-sp;3510401;19/09/2025
 edson_	itainopolis-pi;2205003;21/09/2025
@@ -54,7 +56,7 @@ sao critovao-se;2806701;25/07/2025
 antonina do norte-ce;2300804;06/11/2025
 frutuoso gomes-rn;2404002;23/07/2025
 lapao-ba;2919157;24/01/2026
-carfanaum-ba;2905305;04/09/2025
+carfanaum-ba;2905305;22/09/2026
 alcinopolis-ms;5000252;20/08/2025
 sao juliao do piaui-pi;2210300;30/08/2026
 pontal do parana-pr;4119954;11/07/2025
@@ -146,7 +148,7 @@ sulina-pr;4126652;22/01/2025
 alagoinhas-ba;2900702;11/09/2025
 petropolis-rs;3303906;08/10/2025
 GB_jenipapo das vieiras-ma;2105476;02/09/2025
-GB_barra do corda-ma;2101608;17/09/2025
+GB_barra do corda-ma;2101608;22/10/2025
 GB_itaipava do grajau-ma;2105351;02/09/2025
 GB_tuntum-ma;2112308;06/10/2025
 GB_joselandia-ma;2105609;04/10/2025
@@ -280,7 +282,7 @@ bacabal-ma;2101202;30/05/2025
 ipaporanga-ce;2305654;25/09/2025
 poranga-ce;2311009;07/09/2025
 ararenda-ce;2301257;11/09/2025
-Manari-PE;2609154;01/07/2025
+Manari-PE;2609154;20/09/2025
 galileia-mg;3127305;21/07/2025
 lagoa grande do maranhao - ma;2105963;04/05/2025
 belem do piaui - pi;2201572;03/06/2026
@@ -407,16 +409,3 @@ carira-se;2801405;10/07/2025
 nipoa-sp;3532702;30/09/2025
 sao fidelis-rj;3304805;11/07/2025
 sao francisco de itabapoana-rj;3304755;24/10/2025
-
-
-
-
-
-
-
-
-
-
-
-
-
