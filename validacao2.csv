@@ -2,7 +2,7 @@ nome;ibge;data_validade
 livramento;2508505;01/01/2099
 medina-mg;3141405;01/01/2099
 estrela de alagoas-al;2702553;05/10/2025
-muniz ferreira-ba;2922201;05/10/2025
+mundo novo-ba;2922102;05/10/2025
 pindobaçu-ba;2924603;02/10/2025
 bom jesus do itabapoana-rj;3300605;30/09/2025
 itaperuna-rj;3302205;30/09/2025
@@ -16,7 +16,7 @@ olindina-ba;2923100;24/09/2025
 agua boa-mg;310060;29/09/2025
 joima-mg;3136009;23/09/2025
 capivari-sp;3510401;19/09/2025
-edson_	itainopolis-pi;2205003;21/09/2025
+edson_itainopolis-pi;2205003;21/09/2025
 ren_brand_itaquitinga-pe;2607802;05/10/2025
 ren_brand_ferreiros-pe;2605509;05/10/2025
 ren_brand_goiana-pe;2606200;05/10/2025
@@ -202,7 +202,7 @@ toinho_Alegrete do piaui-pi;2200277;05/05/2025
 toinho_Santa cruz do piaui-pi;2209104;05/05/2025
 toinho_campo grande;2202133;05/05/2025
 toinho_picos - pi;2208007;20/02/2026
-toinho_Guaribas - PI;2204550;05/05/2025
+edson_Guaribas - PI;2204550;04/10/2025
 toinho_fronteiras-pi;2204303;05/05/2025
 toinho_Caldeirao Grande do Piaui-pi;2202091;20/01/2026
 toinho_sao luiz do piaui-pi;2210375;05/05/2025
@@ -356,7 +356,7 @@ ichu;2913309;13/08/2025
 adamantina-sp;3500105;31/12/2025
 borborema-sp;3507407;30/04/2025
 tonantins-am;1304237;05/08/2025
-sao joao do piaui-pi;2210003;25/09/2025
+edson_sao joao do piaui-pi;2210003;26/01/2026
 nova tebas-pr;4117271;20/08/2025
 jaiba-mg;3135050;22/05/2025
 sao vicente do serido-pb;2515401;25/05/2025
