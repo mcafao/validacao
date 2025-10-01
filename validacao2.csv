@@ -1,11 +1,13 @@
 nome;ibge;data_validade
 livramento;2508505;01/01/2099
 medina-mg;3141405;01/01/2099
+monte azul paulista-sp;3531506;07/10/2025
+adustina-ba;2900355;07/10/2025
 conde-pb;2504603;10/10/2025
 santo antonio dos lopes-ma;2110302;05/10/2025
 estrela de alagoas-al;2702553;05/10/2025
 mundo novo-ba;2922102;05/10/2025
-pindobaçu-ba;2924603;02/10/2025
+pindobaçu-ba;2924603;02/11/2025
 bom jesus do itabapoana-rj;3300605;30/09/2025
 itaperuna-rj;3302205;30/09/2025
 itai-sp;3521804;30/09/2025
@@ -39,7 +41,7 @@ toritama-pe;2615409;15/09/2025
 santa cruz do rio pardo-sp;3546405;01/09/2025
 pacaraima-rr;1400456;02/10/2025
 planalto-sp;3539608;20/08/2025
-fernando-falcão-ma;2104081;20/08/2025
+fernando falcão-ma;2104081;20/08/2025
 formiga-mg;3126109;26/08/2025
 estrela-rs;4307807;20/08/2025
 morrinhos-ce;2308906;01/01/2026
@@ -158,7 +160,7 @@ salgueiro-pe;2612208;22/01/2025
 sulina-pr;4126652;22/01/2025
 alagoinhas-ba;2900702;11/09/2025
 petropolis-rs;3303906;08/10/2025
-GB_jenipapo das vieiras-ma;2105476;23/09/2025
+GB_jenipapo das vieiras-ma;2105476;27/10/2025
 GB_barra do corda-ma;2101608;22/10/2025
 GB_itaipava do grajau-ma;2105351;02/09/2025
 GB_tuntum-ma;2112308;06/10/2025
@@ -192,7 +194,7 @@ toinho_socorro do piaui - pi;2210904;05/05/2025
 toinho_campinas do piaui - pi;2202109;05/05/2025
 toinho_simplicio mendes - pi;2210805;05/05/2025
 toinho_simoes - pi;2210706;20/01/2026
-toinho_lagoa do barro do piaui - pi;2205565;26/09/2025
+lagoa do barro do piaui - pi;2205565;01/11/2025
 toinho_floresta do piaui - pi;2203859;26/09/2025
 toinho_sao francisco de assis;2209658;26/09/2025
 toinho_dom expedito lopes - pi;2203404;07/07/2025
@@ -420,4 +422,3 @@ carira-se;2801405;10/07/2025
 nipoa-sp;3532702;30/09/2025
 sao fidelis-rj;3304805;11/07/2025
 sao francisco de itabapoana-rj;3304755;24/10/2025
-
